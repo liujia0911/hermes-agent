@@ -123,5 +123,12 @@ scripts/out/
 # stores the published notes. They are not a build artifact and must never be
 # committed to the repo root. See the hermes-release skill.
 RELEASE_v*.md
-research/
-scripts/
+scripts/CodexPlusPlus/
+scripts/codex-deepseek/
+research/AionUi/
+research/ECC/
+research/agent-skills/
+research/cc-switch/
+research/claude-mem/
+research/superpowers/
+research/daily-report-*
