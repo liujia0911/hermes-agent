@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>斌立科技 - 玩具垫资项目（4-5月汇总）</title>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: "Microsoft YaHei", "PingFang SC", "Helvetica Neue", Arial, sans-serif; background: #f0f2f5; padding: 20px; color: #1a1a1a; }
+.container { max-width: 1500px; margin: 0 auto; background: #fff; border-radius: 8px; box-shadow: 0 2px 12px rgba(0,0,0,0.08); overflow: hidden; }
+.title { padding: 16px 24px; font-size: 16px; font-weight: 700; color: #1a1a1a; border-bottom: 1px solid #e8e8e8; background: #fafafa; }
+.title span { color: #1677ff; }
+.table-wrap { overflow-x: auto; padding: 0; }
+table { width: 100%; border-collapse: collapse; font-size: 13px; min-width: 1500px; }
+thead th { background: #3c3c3c; color: #fff; font-weight: 600; padding: 10px 8px; text-align: center; white-space: nowrap; border-right: 1px solid #555; font-size: 12.5px; }
+thead th:last-child { border-right: none; }
+thead th.sub { background: #4a4a4a; font-weight: 500; font-size: 11.5px; color: #ccc; padding: 6px 8px; }
+tbody td { padding: 10px 8px; text-align: center; border-bottom: 1px solid #eee; white-space: nowrap; }
+tbody tr.row-apr { background: #fafbfc; }
+tbody tr.row-may { background: #fff; }
+tbody tr.row-total { background: #f5f5f5; font-weight: 700; border-top: 2px solid #d9d9d9; }
+tbody tr:hover { background: #e6f4ff; }
+tbody tr.row-total:hover { background: #e6f4ff; }
+td.label { text-align: left; font-weight: 600; padding-left: 12px; }
+td.highlight { color: #1677ff; font-weight: 600; }
+.note { padding: 12px 24px; font-size: 12px; color: #888; border-top: 1px solid #e8e8e8; background: #fafafa; line-height: 1.6; }
+</style>
+</head>
+<body>
+<div class="container">
+<div class="title"><span>斌立科技</span> — 玩具垫资项目 · 4-5月经营汇总（按订单CSV）</div>
+<div class="table-wrap">
+<table>
+<thead>
+<tr>
+<th rowspan="2">日期</th>
+<th colspan="3">总成交额</th>
+<th colspan="3">已关闭订单</th>
+<th colspan="3">实际成交（按店）</th>
+<th rowspan="2">实际成交（合计）</th>
+<th rowspan="2">垫付 90%</th>
+<th rowspan="2">预计 10% 尾款</th>
+<th rowspan="2">状态</th>
+</tr>
+<tr>
+<th class="sub">店6</th><th class="sub">店7</th><th class="sub">店8</th>
+<th class="sub">店6</th><th class="sub">店7</th><th class="sub">店8</th>
+<th class="sub">店6</th><th class="sub">店7</th><th class="sub">店8</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-apr"><td class="label">2026-04 汇总</td><td>604.57</td><td>43,601.77</td><td>20,725.61</td><td>156.88</td><td>10,018.99</td><td>4,856.67</td><td>447.69</td><td>33,582.78</td><td>15,868.94</td><td>49,899.41</td><td>44,909.47</td><td>4,989.94</td><td></td></tr>
+<tr class="row-may"><td class="label">2026-05 汇总</td><td>286.79</td><td>11,039.00</td><td>88,744.18</td><td>117.93</td><td>2,569.13</td><td>24,795.51</td><td>168.86</td><td>8,469.87</td><td>63,948.67</td><td>72,587.40</td><td>65,328.66</td><td>7,258.74</td><td></td></tr>
+<tr class="row-total"><td class="label">合 计</td><td class="highlight">891.36</td><td class="highlight">54,640.77</td><td class="highlight">109,469.79</td><td class="highlight">274.81</td><td class="highlight">12,588.12</td><td class="highlight">29,652.18</td><td class="highlight">616.55</td><td class="highlight">42,052.65</td><td class="highlight">79,817.61</td><td class="highlight">122,486.81</td><td class="highlight">110,238.13</td><td class="highlight">12,248.68</td><td></td></tr>
+
+</tbody>
+</table>
+</div>
+<div class="note">
+<strong>计算规则（基于订单CSV）：</strong><br>
+① 总成交额 = Σ(商品数量 × 商品金额)<br>
+② 已关闭订单 = Σ(订单状态为“已关闭”)<br>
+③ 实际成交 = ① − ②<br>
+④ 垫付 90% = ③ × 0.9<br>
+⑤ 预计 10% 尾款 = ③ × 0.1<br>
+⑥ <span style="color:#1677ff">蓝色</span>为计算产出项
+</div>
+</div>
+</body>
+</html>
