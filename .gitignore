@@ -132,3 +132,27 @@ research/cc-switch/
 research/claude-mem/
 research/superpowers/
 research/daily-report-*
+
+# Project directories (not part of hermes-agent)
+AI获客/
+医药/
+历史项目/
+唐宋/
+崃州威士忌/
+宾立玩具/
+昕冠资料/
+杨氏炭焙/
+渔夫楼-乌贼帮/
+炼刀AI/
+金融贷款/
+scripts/hermes-sync.sh
+tools/build-hermes*.py
+tools/bypass-ghcr.py
+tools/check-*.py
+tools/deploy-*.py
+tools/fix-*.py
+tools/retry-pull.py
+tools/test-mirrors.py
+website/i18n/ko/
+销冠数字员工/scripts/douyin_profile/
+销冠数字员工/scripts/douyin_userdata/
