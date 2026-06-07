@@ -1,0 +1,198 @@
+{
+  "cookies": [
+    {
+      "name": "gd_random",
+      "value": "eyJtYXRjaCI6dHJ1ZSwicGVyY2VudCI6MC44NTk0ODIxMTU1NDU1NzUzfQ==.+corArRbvoyjViO+tlQHWro+a+X+X2pC7mC0vqfllkY=",
+      "domain": "creator.douyin.com",
+      "path": "/goofy/douyin_creator_pc/creator_pc_vmok_common/vmok-manifest.json",
+      "expires": 1781363735.78533,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "gd_random",
+      "value": "eyJtYXRjaCI6ZmFsc2UsInBlcmNlbnQiOjAuODU5NDgyMTE1NTQ1NTc1M30=.+VR+AcBEIEvjUcvgZ7ggfz8/m/aqpB3L67+ljWbfKH4=",
+      "domain": "creator.douyin.com",
+      "path": "/",
+      "expires": 1781363724.792581,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "x-web-secsdk-uid",
+      "value": "55fc4e3a-a592-483a-a6c0-66374b93fbc7",
+      "domain": "creator.douyin.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "gfkadpd",
+      "value": "2906,33638",
+      "domain": "creator.douyin.com",
+      "path": "/",
+      "expires": 1781018125,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_tea_utm_cache_2906",
+      "value": "undefined",
+      "domain": ".creator.douyin.com",
+      "path": "/",
+      "expires": 1781363734,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "csrf_session_id",
+      "value": "46f2fd7905e9bac587d91b11d4e7054f",
+      "domain": "creator.douyin.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ttwid",
+      "value": "1%7C_tPJ9HLZdc9ojgoIDO34TUC_LPGvLIdMXHkk8onOYEc%7C1780758936%7C3bcf0694cd3faf544bf245c734cc4e0aa15bd631ef8037a651a2d4708bf68af2",
+      "domain": ".bytedance.com",
+      "path": "/",
+      "expires": 1812294936.16818,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ttwid",
+      "value": "1%7C_tPJ9HLZdc9ojgoIDO34TUC_LPGvLIdMXHkk8onOYEc%7C1780758936%7C3bcf0694cd3faf544bf245c734cc4e0aa15bd631ef8037a651a2d4708bf68af2",
+      "domain": ".douyin.com",
+      "path": "/",
+      "expires": 1812294936.399009,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__security_mc_1_s_sdk_crypt_sdk",
+      "value": "72159a5e-4d9d-be2d",
+      "domain": ".douyin.com",
+      "path": "/",
+      "expires": 1785942938.049499,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bd_ticket_guard_client_data",
+      "value": "eyJiZC10aWNrZXQtZ3VhcmQtdmVyc2lvbiI6MiwiYmQtdGlja2V0LWd1YXJkLWl0ZXJhdGlvbi12ZXJzaW9uIjoxLCJiZC10aWNrZXQtZ3VhcmQtcmVlLXB1YmxpYy1rZXkiOiJCSmtJUm1rZExvNUptaTN6U1RGSEhRcDMwKy9oN29lZmU2b0srdkFWaWtJVm5OYXAxZU9EdWx4Uk9pT09XdTZnYU1mRnBETkd4WmdIcnVxMThPMXJMcXM9IiwiYmQtdGlja2V0LWd1YXJkLXdlYi12ZXJzaW9uIjoyfQ%3D%3D",
+      "domain": ".douyin.com",
+      "path": "/",
+      "expires": 1785942938.099109,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bd_ticket_guard_client_web_domain",
+      "value": "2",
+      "domain": ".douyin.com",
+      "path": "/",
+      "expires": 1785942938.100249,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "passport_csrf_token",
+      "value": "64e8c1a704ca7442722478ca79e4fc2f",
+      "domain": ".douyin.com",
+      "path": "/",
+      "expires": 1785942938.176691,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "passport_csrf_token_default",
+      "value": "64e8c1a704ca7442722478ca79e4fc2f",
+      "domain": ".douyin.com",
+      "path": "/",
+      "expires": 1785942938.176876,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://creator.douyin.com",
+      "localStorage": [
+        {
+          "name": "__tea_cache_tokens_2906",
+          "value": "{\"web_id\":\"7648301359900411402\",\"user_unique_id\":\"7648301359900411402\",\"timestamp\":1780758935377}"
+        },
+        {
+          "name": "security-sdk/s_sdk_server_cert_key",
+          "value": "{\"cert\":\"-----BEGIN CERTIFICATE-----\\nMIIEfTCCBCKgAwIBAgIUXWdS2tzmSoewCWfKFyiWMrJqs/0wCgYIKoZIzj0EAwIw\\nMTELMAkGA1UEBhMCQ04xIjAgBgNVBAMMGXRpY2tldF9ndWFyZF9jYV9lY2RzYV8y\\nNTYwIBcNMjIxMTE4MDUyMDA2WhgPMjA2OTEyMzExNjAwMDBaMCQxCzAJBgNVBAYT\\nAkNOMRUwEwYDVQQDEwxlY2llcy1zZXJ2ZXIwWTATBgcqhkjOPQIBBggqhkjOPQMB\\nBwNCAASE2llDPlfc8Rq+5J5HXhg4edFjPnCF3Ua7JBoiE/foP9m7L5ELIcvxCgEx\\naRCHbQ8kCCK/ArZ4FX/qCobZAkToo4IDITCCAx0wDgYDVR0PAQH/BAQDAgWgMDEG\\nA1UdJQQqMCgGCCsGAQUFBwMBBggrBgEFBQcDAgYIKwYBBQUHAwMGCCsGAQUFBwME\\nMCkGA1UdDgQiBCABydxqGrVEHhtkCWTb/vicGpDZPFPDxv82wiuywUlkBDArBgNV\\nHSMEJDAigCAypWfqjmRIEo3MTk1Ae3MUm0dtU3qk0YDXeZSXeyJHgzCCAZQGCCsG\\nAQUFBwEBBIIBhjCCAYIwRgYIKwYBBQUHMAGGOmh0dHA6Ly9uZXh1cy1wcm9kdWN0\\naW9uLmJ5dGVkYW5jZS5jb20vYXBpL2NlcnRpZmljYXRlL29jc3AwRgYIKwYBBQUH\\nMAGGOmh0dHA6Ly9uZXh1cy1wcm9kdWN0aW9uLmJ5dGVkYW5jZS5uZXQvYXBpL2Nl\\ncnRpZmljYXRlL29jc3AwdwYIKwYBBQUHMAKGa2h0dHA6Ly9uZXh1cy1wcm9kdWN0\\naW9uLmJ5dGVkYW5jZS5jb20vYXBpL2NlcnRpZmljYXRlL2Rvd25sb2FkLzQ4RjlD\\nMEU3QjBDNUE3MDVCOTgyQkU1NTE3MDVGNjQ1QzhDODc4QTguY3J0MHcGCCsGAQUF\\nBzAChmtodHRwOi8vbmV4dXMtcHJvZHVjdGlvbi5ieXRlZGFuY2UubmV0L2FwaS9j\\nZXJ0aWZpY2F0ZS9kb3dubG9hZC80OEY5QzBFN0IwQzVBNzA1Qjk4MkJFNTUxNzA1\\nRjY0NUM4Qzg3OEE4LmNydDCB5wYDVR0fBIHfMIHcMGygaqBohmZodHRwOi8vbmV4\\ndXMtcHJvZHVjdGlvbi5ieXRlZGFuY2UuY29tL2FwaS9jZXJ0aWZpY2F0ZS9jcmwv\\nNDhGOUMwRTdCMEM1QTcwNUI5ODJCRTU1MTcwNUY2NDVDOEM4NzhBOC5jcmwwbKBq\\noGiGZmh0dHA6Ly9uZXh1cy1wcm9kdWN0aW9uLmJ5dGVkYW5jZS5uZXQvYXBpL2Nl\\ncnRpZmljYXRlL2NybC80OEY5QzBFN0IwQzVBNzA1Qjk4MkJFNTUxNzA1RjY0NUM4\\nQzg3OEE4LmNybDAKBggqhkjOPQQDAgNJADBGAiEAqMjT5ADMdGMeaImoJK4J9jzE\\nLqZ573rNjsT3k14pK50CIQCLpWHVKWi71qqqrMjiSDvUhpyO1DpTPRHlavPRuaNm\\nww==\\n-----END CERTIFICATE-----\",\"sn\":\"533240336124694022040808462028007165443034493949\",\"createdTime\":1780758938222}"
+        },
+        {
+          "name": "LOGIN_STATUS",
+          "value": "{\"loginapp\":\"douyin\",\"logintype\":\"not_login\"}"
+        },
+        {
+          "name": "__msuuid__",
+          "value": "02380689-7521-4621-aec4-0e3719ec73c6"
+        },
+        {
+          "name": "CREATOR_LAYOUT_CONFIG",
+          "value": "{\"headerLogo\":{\"douyin\":{\"src\":\"//lf3-static.bytednsdoc.com/obj/eden-cn/lm-yvahlyj-upfbvk/ljhwZthlaukjlkulzlp/pc/icons/logo.png\"},\"huoshan\":{\"src\":\"//p3.douyinpic.com/aweme-server-static-resource/ies_douyin_opencn_tiktok_creator_header_logo_h.png~tplv-obj.image\"}},\"hotsoonHelpShow\":false,\"footerLink\":[{\"children\":\"账号授权协议\",\"href\":\"//lf3-beecdn.bytetos.com/obj/ies-fe-bee/bee_prod/biz_181/bee_prod_181_bee_publish_1095.html\"},{\"children\":\"用户服务协议\",\"href\":\" //www.douyin.com/agreement/\"},{\"children\":\"隐私政策\",\"href\":\" //www.douyin.com/privacy/\"},{\"children\":\"账号找回\",\"href\":\" //www.douyin.com/recovery_account/\"},{\"children\":\"联系我们\",\"href\":\" //www.douyin.com/aboutus/\"}],\"footerText\":[[\"2025 © 抖音\",\"[京ICP备16016397号-3](https://beian.miit.gov.cn/)\",\"[北京抖音科技有限公司](https://lf3-static.bytednsdoc.com/obj/eden-cn/lm-yvahlyj-upfbvk/ljhwZthlaukjlkulzlp/营业执照.jpg)\",\"[京B2-20170846](https://lf3-static.bytednsdoc.com/obj/eden-cn/lm-yvahlyj-upfbvk/ljhwZthlaukjlkulzlp/增值电信业务经营许可证.jpg)\"],[\"[中国互联网举报中心](http://www.12377.cn/)\",\"[网络文化经营许可证-京网文〔2025〕0181-061号](https://lf3-static.bytednsdoc.com/obj/eden-cn/lm-yvahlyj-upfbvk/ljhwZthlaukjlkulzlp/网络经营许可证.jpg)\",\"违法和不良信息举报：400-140-2108\",\"举报邮箱：feedback@douyin.com\"],[\"![pic](//p3.douyinpic.com/aweme-server-static-resource/gongan_d0289dc.png~tplv-obj.image)\",\"[京公网安备11000002002046号](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002002046)\",\"地址：北京市海淀区北三环西路甲18号院4号楼2层2022\"]],\"permissionKeys\":[{\"itemKey\":\"/authority\",\"text\":\"授权管理\",\"show\":true,\"permission\":\"CreatorConferManage\"},{\"itemKey\":\"/content/\",\"text\":\"内容管理\",\"path\":[\"/live/media/create\",\"/live/media/room\",\"/live/media/list\"],\"show\":true,\"permission\":\"CreatorContentManage\"},{\"itemKey\":\"/following\",\"text\":\"互动管理\",\"show\":true,\"permission\":\"CreatorInterManage\"},{\"itemKey\":\"/data\",\"text\":\"数据管理\",\"path\":[\"/live/media/data\"],\"show\":true,\"permission\":\"CreatorDataManage\"},{\"itemKey\":\"/musician\",\"text\":\"音乐管理\",\"show\":true,\"restrictHotsoon\":true,\"permission\":\"CreatorMusicManage\"},{\"itemKey\":\"/publicity/topic\",\"text\":\"宣发管理\",\"show\":false,\"restrictHotsoon\":true,\"permission\":\"CreatorContentManage.Challenge\"}],\"headerIcons\":[{\"src\":\"//p3.douyinpic.com/aweme-server-static-resource/ies_douyin_opencn_tiktok_creator_header_notification_icon.svg~tplv-obj.image\",\"link\":\"https://creator.douyin.com/message\",\"visible\":{\"has_unread_message\":false,\"is_login_hotsoon\":false}},{\"src\":\"//p3.douyinpic.com/aweme-server-static-resource/ies_douyin_opencn_tiktok_creator_header_notification.png~tplv-obj.image\",\"link\":\"https://creator.douyin.com/message\",\"style\":{\"width\":\"24px\",\"height\":\"24px\"},\"badge\":{\"count\":\"unread_message_count\"},\"visible\":{\"has_unread_message\":true,\"is_login_hotsoon\":false}}],\"sidebarFollowerTip\":\"仅展示抖音粉丝\",\"sidebarData\":{\"data\":[{\"name\":\"视频数据\",\"keyName\":\"CreatorDataManage\",\"icon\":\"//p3.douyinpic.com/aweme-server-static-resource/ies_douyin_opencn_tiktok_creator_sidebar_vedio.svg~tplv-obj.image\",\"auth\":true,\"children\":[{\"path\":\"/data/stats/overview\",\"name\":\"数据总览\",\"keyName\":\"CreatorDataManage.UserOverview\",\"visible\":{\"is_login_hotsoon\":false}},{\"path\":\"/data/stats/video\",\"name\":\"作品数据\",\"keyName\":\"CreatorDataManage.ItemL2\",\"visible\":{\"is_login_hotsoon\":false}},{\"path\":\"/data/stats/follower/portrait\",\"name\":\"粉丝画像\",\"keyName\":\"CreatorDataManage.Portrait\",\"visible\":{\"is_login_hotsoon\":false}},{\"path\":\"/data/stats/hotsoon-overview\",\"name\":\"数据总览\",\"keyName\":\"CreatorDataManage.UserOverview\",\"visible\":{\"is_login_hotsoon\":true}},{\"path\":\"/data/stats/hotsoon-item\",\"name\":\"作品数据\",\"keyName\":\"CreatorDataManage.ItemL2\",\"visible\":{\"is_login_hotsoon\":true}},{\"path\":\"/weekly\",\"name\":\"创作周报\",\"keyName\":\"CreatorDataManage.WeekReport\",\"visible\":{\"is_login_hotsoon\":false}}]},{\"name\":\"直播数据\",\"icon\":\"//p3.douyinpic.com/aweme-server-static-resource/ies_douyin_opencn_tiktok_creator_sidebar_data_icon.svg~tplv-obj.image\",\"auth\":true,\"children\":[{\"path\":\"/data/live/overview\",\"name\":\"数据总览\",\"key\":\"CreatorDataManage.Live\"},{\"path\":\"/live/media/data\",\"name\":\"数据总览\",\"key\":\"CreatorLiveManage.Data\"},{\"path\":\"/data/live/video\",\"name\":\"单场数据\",\"key\":\"CreatorDataManage.Live\"}]},{\"name\":\"重点关注\",\"keyName\":\"CreatorDataManage\",\"auth\":true,\"icon\":\"//p3.douyinpic.com/aweme-server-static-resource/ies_douyin_opencn_tiktok_creator_sidebar_inportant.svg~tplv-obj.image\",\"visible\":[{\"status_code\":8,\"window.location.host\":\"creator.douyin.com\"},{\"status_code\":15384,\"window.location.host\":\"creator.douyin.com\"},{\"is_login_hotsoon\":false}],\"children\":[{\"path\":\"/data/important/following\",\"name\":\"我关心的\",\"keyName\":\"CreatorDataManage.TraceOthers\"},{\"path\":\"/data/important/keyword\",\"name\":\"与我相关\",\"keyName\":\"CreatorDataManage.SearchSelf\"}]}],\"interaction\":[{\"name\":\"互动管理\",\"keyName\":\"CreatorInterManage\",\"icon\":\"//p3.douyinpic.com/aweme-server-static-resource/ies_douyin_opencn_tiktok_creator_sidebar_following.svg~tplv-obj.image\",\"auth\":true,\"children\":[{\"path\":\"/following/following\",\"name\":\"关注管理\"},{\"path\":\"/following/follower\",\"name\":\"粉丝管理\"},{\"path\":\"/following/comment\",\"name\":\"评论管理\",\"visible\":{\"is_login_hotsoon\":false}},{\"path\":\"/following/chat\",\"name\":\"私信管理\",\"key\":\"CreatorInterManage.im\",\"keyName\":\"CreatorInterManage.im\",\"visible\":{\"is_login_hotsoon\":false,\"douyin_user_verify_info.teen_model\":false}}]}],\"publicity\":[{\"name\":\"宣发管理\",\"key\":\"CreatorContentManage.Challenge\",\"icon\":\"//p3.douyinpic.com/aweme-server-static-resource/ies_douyin_opencn_tiktok_creator_sidebar_publicity.svg~tplv-obj.image\",\"children\":[{\"path\":\"/publicity/topic\",\"name\":\"话题管理\"}]}],\"music\":[{\"name\":\"音乐管理\",\"key\":\"CreatorMusicManage\",\"icon\":\"//p3.douyinpic.com/aweme-server-static-resource/ies_douyin_opencn_tiktok_creator_sidebar_music.svg~tplv-obj.image\",\"children\":[{\"path\":\"/musician\",\"name\":\"概览\"},{\"path\":\"/musician/songs\",\"name\":\"音乐管理\"},{\"path\":\"/musician/statistics\",\"name\":\"数据管理\"}]}],\"live\":[{\"name\":\"直播管理\",\"key\":\"CreatorLiveManage\",\"children\":[{\"path\":\"/live/media/create\",\"name\":\"创建直播\",\"icon\":\"//p3.douyinpic.com/aweme-server-static-resource/ttfe_open_creator_sidebar_livecreate.svg~tplv-obj.image\",\"key\":\"CreatorLiveManage.Create\"},{\"path\":\"/live/media/list\",\"name\":\"直播列表\",\"icon\":\"//p3.douyinpic.com/aweme-server-static-resource/ttfe_open_creator_sidebar_livelist.svg~tplv-obj.image\",\"key\":\"CreatorLiveManage.List\"},{\"path\":\"/live/media/replay\",\"name\":\"直播回放\",\"icon\":\"//p3.douyinpic.com/aweme-server-static-resource/ttfe_open_creator_sidebar_livereplay.svg~tplv-obj.image\",\"key\":\"CreatorLiveManage.Replay\"}]},{\"name\":\"数据管理\",\"key\":\"CreatorLiveManage.Data\",\"icon\":\"//p3.douyinpic.com/aweme-server-static-resource/ttfe_open_creator_sidebar_livedata.svg~tplv-obj.image\",\"children\":[{\"path\":\"/live/media/data\",\"name\":\"直播数据\",\"icon\":\"//p3.douyinpic.com/aweme-server-static-resource/ttfe_open_creator_sidebar_livedata.svg~tplv-obj.image\",\"key\":\"CreatorLiveManage.Data\"}]}],\"media\":[{\"name\":\"发布视频\",\"icon\":\"//p3.douyinpic.com/aweme-server-static-resource/ies_douyin_opencn_tiktok_creator_sidebar_upload_v2.svg~tplv-obj.image\",\"path\":[\"/content/upload\",\"/content/publish\"]},{\"name\":\"内容管理\",\"icon\":\"//p3.douyinpic.com/aweme-server-static-resource/ies_douyin_opencn_tiktok_creator_sidebar_manage_v2.svg~tplv-obj.image\",\"children\":[{\"path\":\"/content/manage\",\"name\":\"视频管理\",\"icon\":\"\"},{\"path\":[\"/content/collection/manage\",\"/content/collection/detail\",\"/content/collection/create\"],\"name\":\"合集管理\",\"icon\":\"\",\"visContextKey\":\"userInfo.mix_permission\",\"visContextValue\":true},{\"path\":\"/content/safeguard\",\"name\":\"维权管理\",\"icon\":\"\",\"visContextKey\":\"userInfo.permission.user_sign\",\"visContextValue\":true}]},{\"name\":\"直播管理\",\"icon\":\"//p3.douyinpic.com/aweme-server-static-resource/ies_douyin_opencn_tiktok_creator_sidebar_livecreate_v2.svg~tplv-obj.image\",\"visContextKey\":\"creatorMenu.live_manage\",\"visContextValue\":true,\"children\":[{\"path\":\"/live/media/create\",\"name\":\"创建直播\",\"icon\":\"\",\"key\":\"CreatorLiveManage.Create\",\"visContextKey\":\"creatorMenu.media_auth\",\"visContextValue\":true},{\"path\":\"/live/media/list\",\"name\":\"直播列表\",\"icon\":\"\",\"key\":\"CreatorLiveManage.List\",\"visContextKey\":\"creatorMenu.media_auth\",\"visContextValue\":true},{\"path\":\"/content/live/replay\",\"name\":\"直播回放\",\"icon\":\"\",\"key\":\"CreatorLiveManage.Replay\",\"visContextKey\":\"creatorMenu.replay_auth\",\"visContextValue\":true},{\"path\":\"/content/live/replay\",\"name\":\"直播回放\",\"key\":\"CreatorCommonManage.Replay\"}]}]}}"
+        },
+        {
+          "name": "SLARDARuc_secure_sdk",
+          "value": "JTdCJTIydXNlcklkJTIyOiUyMmRlMDJiMmEyLTMxYTktNGJkYy1iZDgzLTEyNzg1MTJiOTJlMiUyMiwlMjJkZXZpY2VJZCUyMjolMjIxYTEyNTA3OC0xMmZiLTQ4ZWEtODU2My0xNWFhMDcxOTA2MzQlMjIsJTIyZXhwaXJlcyUyMjoxNzg4NTM0OTM1OTI2JTdE"
+        },
+        {
+          "name": "__tea_cache_first_2906",
+          "value": "1"
+        },
+        {
+          "name": "xmst",
+          "value": "wzVBXgJ-5YGccyZpV2k6PokNl2M9YX_9h9gSWUsb_cdrzeB4Wvhaomgj-d31Z_5qqcEzEnUTdixQSmrjUAB6vD3X2eEUO1MTRrzvg_QvLJlB9ewXr3nVzUglHBtHnPYhOYEOgosGj--XPOxdDGkwxL9O_698tR8TQ0JPwTlVAulta6y6LN_XyQrg"
+        },
+        {
+          "name": "ztsdk_tcc_config",
+          "value": "{\"value\":{\"ztsdk_config\":{\"2906\":[{\"aid\":2906,\"scene\":\"web_protect\",\"certType\":\"cookie\",\"providerPathList\":[],\"consumerPathList\":[\"/aweme/v1/creator/relation/create/\",\"/web/api/v2/creator/activity/collect/\",\"/live/api/room/create_media_room/\",\"/aweme/janus/creator/comment/aweme/v1/web/comment/multi_publish/\",\"/aweme/v1/web/comment/multi_publish/\",\"/aweme/janus/creator/comment/aweme/v1/comment/publish/\",\"/aweme/v1/web/comment/publish/\",\"/aweme/janus/creator/comment/aweme/v1/web/comment/digg/\",\"/aweme/v1/web/comment/digg/\",\"/aweme/janus/creator/comment/aweme/v1/web/comment/multi_delete/\",\"/aweme/v1/web/comment/multi_delete/\",\"/aweme/v1/creator/comment/reply/\",\"/aweme/v1/creator/comment/action/\"],\"signVersion\":2}],\"6383\":[{\"aid\":6383,\"scene\":\"web_protect\",\"certType\":\"cookie\",\"consumerPathList\":[\"/aweme/v1/web/comment/list/reply/\",\"/aweme/v1/web/comment/list/\",\"/aweme/v2/web/comment/list/reply/\"],\"signVersion\":2}]}},\"expire\":1780780536085}"
+        },
+        {
+          "name": "web_runtime_security_uid",
+          "value": "55fc4e3a-a592-483a-a6c0-66374b93fbc7"
+        },
+        {
+          "name": "security-sdk/s_sdk_crypt_sdk",
+          "value": "{\"data\":\"{\\\"ec_privateKey\\\":\\\"-----BEGIN PRIVATE KEY-----\\\\r\\\\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgu6zNDVjob5K6Ooud\\\\r\\\\nMAJZTq4b4tpQ3b/0zzsgJs2KwUKhRANCAASZCEZpHS6OSZot80kxRx0Kd9Pv4e6H\\\\r\\\\nn3uqCvrwFYpCFZzWqdXjg7pcUTojjlruoGjHxaQzRsWYB67qtfDtay6r\\\\r\\\\n-----END PRIVATE KEY-----\\\\r\\\\n\\\",\\\"ec_publicKey\\\":\\\"-----BEGIN PUBLIC KEY-----\\\\r\\\\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEmQhGaR0ujkmaLfNJMUcdCnfT7+Hu\\\\r\\\\nh597qgr68BWKQhWc1qnV44O6XFE6I45a7qBox8WkM0bFmAeu6rXw7Wsuqw==\\\\r\\\\n-----END PUBLIC KEY-----\\\\r\\\\n\\\",\\\"ec_csr\\\":\\\"\\\"}\"}"
+        },
+        {
+          "name": "SLARDARdouyin_creator",
+          "value": "JTdCJTIydXNlcklkJTIyOiUyMjA0ZTU0ZjI1LWJjZjQtNDNjNy04N2Y0LTY3MGYxODg1YTViMyUyMiwlMjJkZXZpY2VJZCUyMjolMjJlYzRkOTdhZS01ZDczLTQxYWQtYTQwZS1mNjBmMDJjNmI3NjElMjIsJTIyZXhwaXJlcyUyMjoxNzg4NTM0OTM1NTQ1JTdE"
+        }
+      ]
+    },
+    {
+      "origin": "https://lf-zt.douyin.com",
+      "localStorage": [
+        {
+          "name": "security-sdk/s_sdk_crypt_sdk",
+          "value": "{\"data\":\"{\\\"ec_privateKey\\\":\\\"-----BEGIN PRIVATE KEY-----\\\\r\\\\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgu6zNDVjob5K6Ooud\\\\r\\\\nMAJZTq4b4tpQ3b/0zzsgJs2KwUKhRANCAASZCEZpHS6OSZot80kxRx0Kd9Pv4e6H\\\\r\\\\nn3uqCvrwFYpCFZzWqdXjg7pcUTojjlruoGjHxaQzRsWYB67qtfDtay6r\\\\r\\\\n-----END PRIVATE KEY-----\\\\r\\\\n\\\",\\\"ec_publicKey\\\":\\\"-----BEGIN PUBLIC KEY-----\\\\r\\\\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEmQhGaR0ujkmaLfNJMUcdCnfT7+Hu\\\\r\\\\nh597qgr68BWKQhWc1qnV44O6XFE6I45a7qBox8WkM0bFmAeu6rXw7Wsuqw==\\\\r\\\\n-----END PUBLIC KEY-----\\\\r\\\\n\\\",\\\"ec_csr\\\":\\\"\\\"}\"}"
+        }
+      ]
+    }
+  ]
+}
